@@ -1,0 +1,1 @@
+This project is still under development. But you can follow the development process by visiting https://userplace.netlify.app
