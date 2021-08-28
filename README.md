@@ -10,7 +10,7 @@
 ---
 
 
-## ?? About <a name = "about"></a>
+## About <a name = "about"></a>
 
 React Frontend for the MERN Fullstack App for sharing locations and pictures. Nodejs backend code available at [here](https://github.com/Ar8official/U_Places-backend)
 
